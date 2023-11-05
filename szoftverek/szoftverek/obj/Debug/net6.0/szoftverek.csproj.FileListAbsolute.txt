@@ -1,0 +1,14 @@
+C:\Users\kato2\source\repos\szoftverek\szoftverek\bin\Debug\net6.0\szoftverek.exe
+C:\Users\kato2\source\repos\szoftverek\szoftverek\bin\Debug\net6.0\szoftverek.deps.json
+C:\Users\kato2\source\repos\szoftverek\szoftverek\bin\Debug\net6.0\szoftverek.runtimeconfig.json
+C:\Users\kato2\source\repos\szoftverek\szoftverek\bin\Debug\net6.0\szoftverek.dll
+C:\Users\kato2\source\repos\szoftverek\szoftverek\bin\Debug\net6.0\szoftverek.pdb
+C:\Users\kato2\source\repos\szoftverek\szoftverek\obj\Debug\net6.0\szoftverek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kato2\source\repos\szoftverek\szoftverek\obj\Debug\net6.0\szoftverek.AssemblyInfoInputs.cache
+C:\Users\kato2\source\repos\szoftverek\szoftverek\obj\Debug\net6.0\szoftverek.AssemblyInfo.cs
+C:\Users\kato2\source\repos\szoftverek\szoftverek\obj\Debug\net6.0\szoftverek.csproj.CoreCompileInputs.cache
+C:\Users\kato2\source\repos\szoftverek\szoftverek\obj\Debug\net6.0\szoftverek.dll
+C:\Users\kato2\source\repos\szoftverek\szoftverek\obj\Debug\net6.0\refint\szoftverek.dll
+C:\Users\kato2\source\repos\szoftverek\szoftverek\obj\Debug\net6.0\szoftverek.pdb
+C:\Users\kato2\source\repos\szoftverek\szoftverek\obj\Debug\net6.0\szoftverek.genruntimeconfig.cache
+C:\Users\kato2\source\repos\szoftverek\szoftverek\obj\Debug\net6.0\ref\szoftverek.dll
